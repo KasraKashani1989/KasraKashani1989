@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning About Security Methods
 - 💞️ I’m looking to collaborate on My Team
 - 📫 Reach Me With My Mail Address
-- 😄 Pronouns: Nothing :)    
+- 😄 Pronouns: Nothing :)     
 - ⚡ Fun fact: Counter   
 
 <!---

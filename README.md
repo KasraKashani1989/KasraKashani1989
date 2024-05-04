@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on My Team
 - 📫 Reach Me With My Mail Address
 - 😄 Pronouns: Nothing :)           
-- ⚡ Fun fact: Counter        
+- ⚡ Fun fact: Counter         
 
 <!---
 KasraKashani1989/KasraKashani1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
